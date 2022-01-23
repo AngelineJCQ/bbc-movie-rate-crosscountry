@@ -1,0 +1,103 @@
+name,director,link,year,runtime,genre,a_rate,a_ppl,gross,name,c_rate,c_ppl,df_rate,df_ppl
+Mulholland Drive,David Lynch,/title/tt0166924/,2001,147,"Drama, Mystery, Thriller",7.9,341050,7.22,穆赫兰道 Mulholland Dr.,8.4,386092,-0.5,-45042
+In the Mood for Love,Kar-Wai Wong,/title/tt0118694/,2000,98,"Drama, Romance",8.1,139390,2.73,花样年华 花樣年華,8.7,507464,-0.5999999999999996,-368074
+There Will Be Blood,Paul Thomas Anderson,/title/tt0469494/,2007,158,Drama,8.2,552107,40.22,血色将至 There Will Be Blood,8.4,64335,-0.20000000000000107,487772
+Spirited Away,Hayao Miyazaki,/title/tt0245429/,2001,125,"Animation, Adventure, Family",8.6,705033,10.06,千与千寻 千と千尋の神隠し,9.4,1961920,-0.8000000000000007,-1256887
+Boyhood,Richard Linklater,/title/tt1065073/,2014,165,Drama,7.9,346387,25.38,少年时代 Boyhood,8.5,203431,-0.5999999999999996,142956
+Eternal Sunshine of the Spotless Mind,Michel Gondry,/title/tt0338013/,2004,108,"Drama, Romance, Sci-Fi",8.3,957728,34.4,暖暖内含光 Eternal Sunshine of the Spotless Mind,8.5,220121,-0.1999999999999993,737607
+The Tree of Life,Terrence Malick,/title/tt0478304/,2011,139,"Drama, Fantasy",6.8,173111,13.3,生命之树 The Tree of Life,7.1,41254,-0.2999999999999998,131857
+Yi Yi: A One and a Two...,Edward Yang,/title/tt0244316/,2000,173,"Drama, Romance",8.2,22956,1.14,一一,9.1,313050,-0.9000000000000004,-290094
+A Separation,Asghar Farhadi,/title/tt1832382/,2011,123,Drama,8.3,234272,7.1,一次别离 جدایی نادر از سیمین,8.7,227066,-0.3999999999999986,7206
+No Country for Old Men,Ethan Coen,/title/tt0477348/,2007,122,"Crime, Drama, Thriller",8.1,913278,74.28,老无所依 No Country for Old Men,8.3,254241,-0.20000000000000107,659037
+Inside Llewyn Davis,Ethan Coen,/title/tt2042568/,2013,104,"Comedy, Drama, Music",7.5,148035,13.24,醉乡民谣 Inside Llewyn Davis,8.1,114205,-0.5999999999999996,33830
+Zodiac,David Fincher,/title/tt0443706/,2007,157,"Crime, Drama, Mystery",7.7,505693,33.08,十二宫 Zodiac,7.4,168064,0.2999999999999998,337629
+Children of Men,Alfonso Cuarón,/title/tt0206634/,2006,109,"Action, Drama, Sci-Fi",7.9,483743,35.55,人类之子 Children of Men,7.6,70374,0.3000000000000007,413369
+The Act of Killing,Joshua Oppenheimer,/title/tt2375605/,2012,117,"Documentary, Biography, Crime",8.2,37017,0.49,杀戮演绎 The Act of Killing,8.4,7992,-0.20000000000000107,29025
+"4 Months, 3 Weeks and 2 Days",Cristian Mungiu,/title/tt1032846/,2007,113,Drama,7.9,58865,1.19,"四月三周两天 4 luni, 3 săptămâni și 2 zile",8.3,32923,-0.40000000000000036,25942
+Holy Motors,Leos Carax,/title/tt2076220/,2012,115,"Drama, Fantasy",7.1,44716,,神圣车行 Holy Motors,7.9,20088,-0.8000000000000007,24628
+Pan's Labyrinth,Guillermo del Toro,/title/tt0457430/,2006,118,"Drama, Fantasy, War",8.2,644048,37.63,潘神的迷宫 El laberinto del fauno,7.9,202827,0.29999999999999893,441221
+The White Ribbon,Michael Haneke,/title/tt1149362/,2009,144,"Drama, History, Mystery",7.8,71697,2.22,白丝带 Das weiße Band – Eine deutsche Kindergeschichte,8.2,28789,-0.39999999999999947,42908
+Mad Max: Fury Road,George Miller,/title/tt1392190/,2015,120,"Action, Adventure, Sci-Fi",8.1,940698,154.06,疯狂的麦克斯4：狂暴之路 Mad Max: Fury Road,8.6,455338,-0.5,485360
+"Synecdoche, New York",Charlie Kaufman,/title/tt0383028/,2008,124,Drama,7.6,88144,3.08,"纽约提喻法 Synecdoche, New York",8.3,16252,-0.7000000000000011,71892
+The Grand Budapest Hotel,Wes Anderson,/title/tt2278388/,2014,99,"Adventure, Comedy, Crime",8.1,756747,59.1,布达佩斯大饭店 The Grand Budapest Hotel,8.9,778400,-0.8000000000000007,-21653
+Lost in Translation,Sofia Coppola,/title/tt0335266/,2003,102,"Comedy, Drama",7.7,436805,44.59,迷失东京 Lost in Translation,7.7,199207,0.0,237598
+Caché (Hidden),Michael Haneke,/title/tt0387898/,2005,117,"Drama, Mystery, Thriller",7.3,77539,3.63,隐藏摄像机 Caché,7.6,12068,-0.2999999999999998,65471
+The Master,Paul Thomas Anderson,/title/tt1560747/,2012,138,Drama,7.2,165391,16.38,大师 The Master,7.4,17302,-0.20000000000000018,148089
+Memento,Christopher Nolan,/title/tt0209144/,2000,113,"Mystery, Thriller",8.4,1180385,25.54,记忆碎片 Memento,8.7,532170,-0.29999999999999893,648215
+25th Hour,Spike Lee,/title/tt0307901/,2002,135,Drama,7.6,175541,13.06,第25小时 25th Hour,7.9,21819,-0.3000000000000007,153722
+The Social Network,David Fincher,/title/tt1285016/,2010,120,"Biography, Drama",7.7,662463,96.96,社交网络 The Social Network,8.2,413703,-0.4999999999999991,248760
+Talk to Her,Pedro Almodóvar,/title/tt0287467/,2002,112,"Drama, Mystery, Romance",7.9,109484,9.28,对她说 Hable con ella,8.5,80291,-0.5999999999999996,29193
+WALL·E,Andrew Stanton,/title/tt0910970/,2008,98,"Animation, Adventure, Family",8.4,1054027,223.81,机器人总动员 WALL·E,9.3,1157549,-0.9000000000000004,-103522
+Oldboy,Park Chan-Wook,/title/tt0364569/,2003,120,"Action, Drama, Mystery",8.4,547909,0.71,老男孩 올드보이,8.2,257200,0.20000000000000107,290709
+Margaret,Kenneth Lonergan,/title/tt0466893/,2011,150,Drama,6.5,17062,0.05,玛格丽特 Margaret,6.3,1631,0.20000000000000018,15431
+The Lives of Others,Florian Henckel von Donnersmarck,/title/tt0405094/,2006,137,"Drama, Mystery, Thriller",8.4,376030,11.29,窃听风暴 Das Leben der Anderen,9.2,486692,-0.7999999999999989,-110662
+The Dark Knight,Christopher Nolan,/title/tt0468569/,2008,152,"Action, Crime, Drama",9.0,2452705,534.86,蝙蝠侠：黑暗骑士 The Dark Knight,9.2,909517,-0.1999999999999993,1543188
+Son of Saul,László Nemes,/title/tt3808342/,2015,107,"Drama, War",7.5,47485,1.78,索尔之子 Saul fia,7.4,17189,0.09999999999999964,30296
+"Crouching Tiger, Hidden Dragon",Ang Lee,/title/tt0190332/,2000,120,"Action, Adventure, Drama",7.8,262398,128.08,卧虎藏龙 臥虎藏龍,8.3,392500,-0.5000000000000009,-130102
+Timbuktu,Abderrahmane Sissako,/title/tt3409392/,2014,96,"Drama, War",7.2,17112,1.08,廷巴克图 Timbuktu,7.1,3927,0.10000000000000053,13185
+Uncle Boonmee Who Can Recall His Past Lives,Apichatpong Weerasethakul,/title/tt1588895/,2010,114,"Drama, Fantasy",6.7,15118,0.18,能召回前世的布米叔叔 ลุงบุญมีระลึกชาติ,7.3,12385,-0.5999999999999996,2733
+City of God,Fernando Meirelles,/title/tt0317248/,2002,130,"Crime, Drama",8.6,727795,7.56,上帝之城 Cidade de Deus,9.0,267321,-0.40000000000000036,460474
+The New World,Terrence Malick,/title/tt0402399/,2005,135,"Biography, Drama, History",6.7,85140,12.71,新世界 The New World,7.0,3714,-0.2999999999999998,81426
+Brokeback Mountain,Ang Lee,/title/tt0388795/,2005,134,"Drama, Romance",7.7,342050,83.04,断背山 Brokeback Mountain,8.8,626882,-1.1000000000000005,-284832
+Inside Out,Pete Docter,/title/tt2096673/,2015,95,"Animation, Adventure, Comedy",8.1,663153,356.46,头脑特工队 Inside Out,8.7,516857,-0.5999999999999996,146296
+Amour,Michael Haneke,/title/tt1602620/,2012,127,Drama,7.9,97363,6.74,爱 Amour,8.6,78204,-0.6999999999999993,19159
+Melancholia,Lars von Trier,/title/tt1527186/,2011,135,"Drama, Sci-Fi",7.2,175867,3.03,忧郁症 Melancholia,7.1,29468,0.10000000000000053,146399
+12 Years a Slave,Steve McQueen,/title/tt2024544/,2013,134,"Biography, Drama, History",8.1,670829,56.67,为奴十二年 12 Years a Slave,8.2,212487,-0.09999999999999964,458342
+Blue Is the Warmest Colour,Abdellatif Kechiche,/title/tt2278871/,2013,180,"Drama, Romance",7.7,146114,2.2,阿黛尔的生活 La Vie d'Adèle,8.4,217167,-0.7000000000000002,-71053
+Certified Copy,Abbas Kiarostami,/title/tt1020773/,2010,106,"Drama, Romance",7.3,23454,1.34,合法副本 Copie conforme,8.0,18367,-0.7000000000000002,5087
+Leviathan,Andrey Zvyagintsev,/title/tt2802154/,2014,140,"Crime, Drama",7.6,51957,1.09,利维坦 Левиафан,7.8,17674,-0.20000000000000018,34283
+Brooklyn,John Crowley,/title/tt2381111/,2015,117,"Drama, Romance",7.5,137628,38.32,布鲁克林 Brooklyn,7.9,104149,-0.40000000000000036,33479
+Goodbye to Language,Jean-Luc Godard,/title/tt2400275/,2014,70,"Drama, Fantasy",5.9,5759,,再见语言 Adieu au langage,7.2,3245,-1.2999999999999998,2514
+The Assassin,Hsiao-Hsien Hou,/title/tt3508840/,2015,105,"Action, Drama, History",6.3,16522,0.61,刺客聂隐娘,7.3,199223,-1.0,-182701
+Inception,Christopher Nolan,/title/tt1375666/,2010,148,"Action, Adventure, Sci-Fi",8.8,2200918,292.58,盗梦空间 Inception,9.3,1806540,-0.5,394378
+Tropical Malady,Apichatpong Weerasethakul,/title/tt0381668/,2004,118,"Drama, Fantasy, Romance",7.2,5477,,热带疾病 สัตว์ประหลาด,8.0,6151,-0.7999999999999998,-674
+Moulin Rouge!,Baz Luhrmann,/title/tt0203009/,2001,127,"Drama, Musical, Romance",7.6,275734,57.39,红磨坊 Moulin Rouge!,7.9,125967,-0.3000000000000007,149767
+Once Upon a Time in Anatolia,Nuri Bilge Ceylan,/title/tt1827487/,2011,157,"Crime, Drama",7.9,44949,0.14,小亚细亚往事 Bir Zamanlar Anadolu'da,7.8,9374,0.10000000000000053,35575
+Ida,Pawel Pawlikowski,/title/tt2718492/,2013,82,Drama,7.4,56162,3.83,修女艾达 Ida,7.8,14733,-0.39999999999999947,41429
+Werckmeister Harmonies,Béla Tarr,/title/tt0249241/,2000,145,"Drama, Mystery",8.1,13720,0.03,鲸鱼马戏团 Werckmeister harmóniák,8.8,8985,-0.7000000000000011,4735
+Zero Dark Thirty,Kathryn Bigelow,/title/tt1790885/,2012,157,"Drama, History, Thriller",7.4,287897,95.72,猎杀本·拉登 Zero Dark Thirty,7.6,54931,-0.1999999999999993,232966
+Moolaadé,Ousmane Sembene,/title/tt0416991/,2004,124,Drama,7.6,3778,0.21,莫拉德 Moolaadé,7.5,420,0.09999999999999964,3358
+A History of Violence,David Cronenberg,/title/tt0399146/,2005,96,"Action, Crime, Drama",7.4,231635,31.49,暴力史 A History of Violence,7.5,22785,-0.09999999999999964,208850
+Syndromes and a Century,Apichatpong Weerasethakul,/title/tt0477731/,2006,105,Drama,7.4,4079,0.02,恋爱症候群 แสงศตวรรษ,7.9,4122,-0.5,-43
+Under the Skin,Jonathan Glazer,/title/tt1441395/,2013,108,"Drama, Horror, Sci-Fi",6.4,137324,2.61,皮囊之下 Under the Skin,6.3,40359,0.10000000000000053,96965
+Inglourious Basterds,Quentin Tarantino,/title/tt0361748/,2009,153,"Adventure, Drama, War",8.3,1351539,120.54,无耻混蛋 Inglourious Basterds,8.6,412542,-0.29999999999999893,938997
+The Turin Horse,Béla Tarr,/title/tt1316540/,2011,155,Drama,7.8,17056,0.05,都灵之马 A torinói ló,8.4,17300,-0.6000000000000005,-244
+The Great Beauty,Paolo Sorrentino,/title/tt2358891/,2013,141,Drama,7.8,85655,2.85,绝美之城 La grande bellezza,8.2,45895,-0.39999999999999947,39760
+Fish Tank,Andrea Arnold,/title/tt1232776/,2009,123,Drama,7.3,61218,0.37,鱼缸 Fish Tank,7.5,29553,-0.20000000000000018,31665
+"Spring, Summer, Fall, Winter... and Spring",Kim Ki-duk,/title/tt0374546/,2003,103,"Drama, Romance",8.0,80994,2.38,春夏秋冬又一春 봄 여름 가을 겨울 그리고 봄,8.5,102898,-0.5,-21904
+The Hurt Locker,Kathryn Bigelow,/title/tt0887912/,2008,131,"Drama, Thriller, War",7.5,437603,17.02,拆弹部队 The Hurt Locker,7.8,162651,-0.2999999999999998,274952
+The Royal Tenenbaums,Wes Anderson,/title/tt0265666/,2001,110,"Comedy, Drama",7.6,280069,52.36,天才一族 The Royal Tenenbaums,8.1,40027,-0.5,240042
+Carol,Todd Haynes,/title/tt2402927/,2015,118,"Drama, Romance",7.3,123425,12.71,卡罗尔 Carol,8.4,247831,-1.1000000000000005,-124406
+Stories We Tell,Sarah Polley,/title/tt2366450/,2012,108,Documentary,7.6,13008,1.6,我们讲述的故事 Stories We Tell,8.2,1854,-0.5999999999999996,11154
+Tabu,Miguel Gomes,/title/tt2153963/,2012,118,"Drama, Romance",7.3,6910,,禁忌 Tabu,7.5,1928,-0.20000000000000018,4982
+Only Lovers Left Alive,Jim Jarmusch,/title/tt1714915/,2013,123,"Comedy, Drama, Fantasy",7.3,97145,1.88,唯爱永生 Only Lovers Left Alive,7.6,38221,-0.2999999999999998,58924
+Before Sunset,Richard Linklater,/title/tt0381681/,2004,80,"Drama, Romance",8.1,250695,5.82,爱在日落黄昏时 Before Sunset,8.9,459642,-0.8000000000000007,-208947
+Spring Breakers,Harmony Korine,/title/tt2101441/,2012,94,"Crime, Drama",5.3,139666,14.12,春假 Spring Breakers,5.6,13378,-0.2999999999999998,126288
+Inherent Vice,Paul Thomas Anderson,/title/tt1791528/,2014,148,"Comedy, Crime, Drama",6.7,100140,8.11,性本恶 Inherent Vice,7.1,10516,-0.39999999999999947,89624
+Dogville,Lars von Trier,/title/tt0276919/,2003,178,"Crime, Drama",8.0,144506,1.53,狗镇 Dogville,8.4,133783,-0.40000000000000036,10723
+The Diving Bell and the Butterfly,Julian Schnabel,/title/tt0401383/,2007,112,"Biography, Drama",8.0,106121,5.99,潜水钟与蝴蝶 Le Scaphandre et le Papillon,7.9,37848,0.09999999999999964,68273
+The Wolf of Wall Street,Martin Scorsese,/title/tt0993846/,2013,180,"Biography, Comedy, Crime",8.2,1288280,116.9,华尔街之狼 The Wolf of Wall Street,8.0,337785,0.1999999999999993,950495
+Almost Famous,Cameron Crowe,/title/tt0181875/,2000,122,"Adventure, Comedy, Drama",7.9,267214,32.53,几近成名 Almost Famous,8.0,27369,-0.09999999999999964,239845
+The Return,Andrey Zvyagintsev,/title/tt0376968/,2003,110,Drama,8.0,44545,0.5,回归 Возвращение,8.7,24832,-0.6999999999999993,19713
+Shame,Steve McQueen,/title/tt1723811/,2011,101,Drama,7.2,190828,4.0,羞耻 Shame,7.3,88423,-0.09999999999999964,102405
+A Serious Man,Ethan Coen,/title/tt1019452/,2009,106,"Comedy, Drama",7.1,139135,9.19,严肃的男人 A Serious Man,7.4,21167,-0.3000000000000007,117968
+A.I. Artificial Intelligence,Steven Spielberg,/title/tt0212720/,2001,146,"Drama, Sci-Fi",7.2,300166,78.62,人工智能 Artificial Intelligence: AI,8.7,383252,-1.4999999999999991,-83086
+Her,Spike Jonze,/title/tt1798709/,2013,126,"Drama, Romance, Sci-Fi",8.0,574846,25.57,她 Her,8.4,393959,-0.40000000000000036,180887
+A Prophet,Jacques Audiard,/title/tt1235166/,2009,155,"Crime, Drama",7.9,96836,2.08,预言者 Un prophète,7.6,16055,0.3000000000000007,80781
+Far from Heaven,Todd Haynes,/title/tt0297884/,2002,107,"Drama, Romance",7.4,45674,15.85,远离天堂 Far from Heaven,7.6,7937,-0.1999999999999993,37737
+Amélie,Jean-Pierre Jeunet,/title/tt0211915/,2001,122,"Comedy, Romance",8.3,730377,33.23,天使爱美丽 Le fabuleux destin d'Amélie Poulain,8.7,877337,-0.3999999999999986,-146960
+Spotlight,Tom McCarthy,/title/tt1895587/,2015,129,"Biography, Crime, Drama",8.1,447698,45.06,聚焦 Spotlight,8.8,244068,-0.7000000000000011,203630
+La mujer sin cabeza,Lucrecia Martel,/title/tt1221141/,2008,87,"Drama, Mystery, Thriller",6.6,5042,0.1,无头的女人 La mujer sin cabeza,7.1,738,-0.5,4304
+The Pianist,Roman Polanski,/title/tt0253474/,2002,150,"Biography, Drama, Music",8.5,780977,32.57,钢琴家 The Pianist,9.2,500165,-0.6999999999999993,280812
+The Secret in Their Eyes,Juan José Campanella,/title/tt1305806/,2009,129,"Drama, Mystery, Romance",8.2,202693,6.39,谜一样的双眼 El secreto de sus ojos,8.3,81557,-0.10000000000000142,121136
+The Assassination of Jesse James by the Coward Robert Ford,Andrew Dominik,/title/tt0443680/,2007,160,"Biography, Crime, Drama",7.5,175881,3.9,神枪手之死 The Assassination of Jesse James by the Coward Robert Ford,7.6,21375,-0.09999999999999964,154506
+Ratatouille,Brad Bird,/title/tt0382932/,2007,111,"Animation, Adventure, Comedy",8.0,677234,206.45,美食总动员 Ratatouille,8.5,316519,-0.5,360715
+Let the Right One In,Tomas Alfredson,/title/tt1139797/,2008,114,"Crime, Drama, Fantasy",7.9,211846,2.12,生人勿进 Låt den rätte komma in,7.6,43044,0.3000000000000007,168802
+Moonrise Kingdom,Wes Anderson,/title/tt1748122/,2012,94,"Comedy, Drama, Romance",7.8,335444,45.51,月升王国 Moonrise Kingdom,8.3,118488,-0.5000000000000009,216956
+Finding Nemo,Andrew Stanton,/title/tt0266543/,2003,100,"Animation, Adventure, Comedy",8.1,993200,380.84,海底总动员 Finding Nemo,8.4,342620,-0.3000000000000007,650580
+White Material,Claire Denis,/title/tt1135952/,2009,106,"Drama, War",6.9,7518,0.3,白色物质 White Material,6.8,1959,0.10000000000000053,5559
+Ten,Abbas Kiarostami,/title/tt0301978/,2002,94,Drama,7.5,7543,0.11,十段生命的律动 ده,7.6,2239,-0.09999999999999964,5304
+The Gleaners & I,Agnès Varda,/title/tt0247380/,2000,82,Documentary,7.7,6998,0.15,拾穗者 Les glaneurs et la glaneuse,9.0,6271,-1.2999999999999998,727
+Carlos,Edgar Ramírez,/title/tt1321865/,2010,334,"Biography, Crime, Drama",7.6,13576,0.15,卡洛斯 Carlos,7.4,1285,0.1999999999999993,12291
+Requiem for a Dream,Darren Aronofsky,/title/tt0180093/,2000,102,Drama,8.3,802806,3.64,梦之安魂曲 Requiem for a Dream,8.8,178472,-0.5,624334
+Toni Erdmann,Maren Ade,/title/tt4048272/,2016,162,"Comedy, Drama",7.4,46945,1.48,托尼·厄德曼 Toni Erdmann,7.6,23385,-0.1999999999999993,23560
