@@ -14,22 +14,24 @@ I hope to see the different tastes of eastern and western audiences, as well as 
 
 ## Analysis
 
-All of my analysis is done by Python in Jupyter Notebook. I put them [here](https://github.com/AngelineJCQ/bbc-movie-rate-crosscountry/docs/code)
+All of my analysis is done by Python in Jupyter Notebook. I put them [here](https://github.com/AngelineJCQ/bbc-movie-rate-crosscountry/tree/main/docs).
 
-The logic here is:
+My steps include:
 
-1. Scrape all BBC list
-2. Scrape IMDb info, including:
+1. [Scrape all BBC list](https://github.com/AngelineJCQ/bbc-movie-rate-crosscountry/blob/main/docs/code/Step1_Scrape_BBC_List.ipynb)
+2. [Scrape IMDb info](https://github.com/AngelineJCQ/bbc-movie-rate-crosscountry/blob/main/docs/code/Step2_Scrape_IMDB_Info.ipynb), including:
 - the director's name
 - the director's birthplace
 - the rate
 - the number of people who rated the movie
-3. Scrape Douban info, including:
+3. [Scrape Douban info](https://github.com/AngelineJCQ/bbc-movie-rate-crosscountry/blob/main/docs/code/Step3_Scrape_Douban_Info.ipynb), including:
 - the rate
 - the number of people who rated the movie
-4. Get the geocode of all the birthplaces
-5. Get the final dataframe 
-6. Trasfer the dataframe to Json file
+4. Get the [geocode of all the birthplaces](https://github.com/AngelineJCQ/bbc-movie-rate-crosscountry/blob/main/docs/code/Step4_Get_Geocode.ipynb)
+5. Get the [final datafram](https://github.com/AngelineJCQ/bbc-movie-rate-crosscountry/blob/main/docs/code/Step5_Get_Final_Dataframe.ipynb) 
+6. [Trasfer the dataframe](https://github.com/AngelineJCQ/bbc-movie-rate-crosscountry/blob/main/docs/code/Step6_Transfer_Json.ipynb) to Json file
+
+I also did some exploratory analysis with [the final 100 greast movies in 21st century](https://en.wikipedia.org/wiki/BBC%27s_100_Greatest_Films_of_the_21st_Century) compiled by BBC, which can be found [here](https://github.com/AngelineJCQ/bbc-movie-rate-crosscountry/tree/main/docs/exploring).
 
 ## Result
 
@@ -38,7 +40,7 @@ An interactive map.
 Each circle is a director's birthplace. The bigger the circle is, the more vote it got from 177 critics selected by BBC in 2016.
 
 Different color means:
-![image]()
+![image](https://github.com/AngelineJCQ/bbc-movie-rate-crosscountry/blob/main/image.png)
 
 (It will be proved in the future. I promise. Use bivariate color schemes as my professor suggested)
 
